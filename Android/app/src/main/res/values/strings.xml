@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AVRTermometr</string>
+    <string name="edit_message">Enter message</string>
+    <string name="button_send">Send</string>
+</resources>
